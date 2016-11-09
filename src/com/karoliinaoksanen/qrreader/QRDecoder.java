@@ -5,7 +5,7 @@ package com.karoliinaoksanen.qrreader;
  * 
  * Copyright 2014 Karoliina Oksanen
  * 
- * @author Karoliina Oksanen, hkoksanen@gmail.com
+ * @author Karoliina Oksanen
  * 
  */
 
